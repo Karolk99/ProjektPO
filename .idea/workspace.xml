@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9eb9f9f-9fab-4566-acbe-f93847c9d1f1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYm055GncJdNOnN4ZVf8zJ7jtX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="World" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="World" />
+      <module name="project_ewolucja" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9eb9f9f-9fab-4566-acbe-f93847c9d1f1" name="Default Changelist" comment="" />
+      <created>1575541676980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575541676980</updated>
+      <workItem from="1575541680923" duration="2965000" />
+      <workItem from="1576081632688" duration="11008000" />
+      <workItem from="1576146607827" duration="4258000" />
+      <workItem from="1576575091470" duration="482000" />
+      <workItem from="1576585394884" duration="8702000" />
+      <workItem from="1576604116298" duration="2738000" />
+      <workItem from="1576657249464" duration="556000" />
+      <workItem from="1576676529920" duration="6937000" />
+      <workItem from="1576750906626" duration="1995000" />
+      <workItem from="1576755382788" duration="651000" />
+      <workItem from="1576831527196" duration="1380000" />
+      <workItem from="1576839296717" duration="2136000" />
+      <workItem from="1576856303671" duration="4286000" />
+      <workItem from="1576931464542" duration="20306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
